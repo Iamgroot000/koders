@@ -55,9 +55,9 @@ This project follows a Clean Architecture pattern, aiming for separation of conc
 
 ##  Screenshots
 
-| Login Screen                    | Post List Screen                     | Post Detail Screen                    |
-|---------------------------------|--------------------------------------|---------------------------------------|
-| ![](lib/screenshots/login.jpeg) | ![](lib/screenshots/posts_list.jpeg) | ![](lib/screenshots/post_detail.jpeg) |
+| Login Screen                    | Post List Screen                    | Post Detail Screen                    |
+|---------------------------------|-------------------------------------|---------------------------------------|
+| ![](lib/screenshots/login.jpeg) | ![](lib/screenshots/post_list.jpeg) | ![](lib/screenshots/post_detail.jpeg) |
 
 
 ## License
